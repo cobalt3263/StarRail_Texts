@@ -18,3 +18,35 @@
 - [階差宇宙：人間喜劇](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E4%BA%BA%E9%96%93%E5%96%9C%E5%8A%87/README.md)
 - [階差宇宙：千の面を持つ英雄](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E5%8D%83%E3%81%AE%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E8%8B%B1%E9%9B%84/README.md)
 - [階差宇宙：楽園漫記](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E6%A5%BD%E5%9C%92%E6%BC%AB%E8%A8%98/README.md)
+
+## 本文を横断検索する
+
+GitHubのコード検索で、このリポジトリ内のMarkdown本文をまとめて検索できます。
+
+1. GitHubにログインし、[本文検索の例：「アッハ」](https://github.com/search?q=repo%3Acobalt3263%2FStarRail_Texts+content%3A%22%E3%82%A2%E3%83%83%E3%83%8F%22&type=code)を開きます。
+2. 検索欄の「アッハ」を探したい言葉に置き換え、Enterを押します。
+3. 検索結果のファイルを開き、前後の文章を確認します。
+
+検索欄に直接入力する場合は、次の形式を使います。
+
+```text
+repo:cobalt3263/StarRail_Texts content:"アッハ"
+```
+
+`repo:` は検索対象をこのリポジトリに絞り、`content:` はファイルの内容を検索します。
+
+複数の言葉のどちらかを含むページを探す場合は、正規表現を使えます。
+
+```text
+repo:cobalt3263/StarRail_Texts content:/アッハ|クリフォト/
+```
+
+特定のカテゴリに絞る場合は、`path:` を追加します。
+
+```text
+repo:cobalt3263/StarRail_Texts path:"全般：イベント/" content:"アッハ"
+```
+
+「This repository's code is being indexed right now. Try again in a few minutes.」と表示された場合は、検索用データの作成中です。数分待ってから再検索してください。
+
+詳しい書き方は、[GitHub公式の検索構文](https://docs.github.com/ja/search-github/github-code-search/understanding-github-code-search-syntax)を参照してください。
