@@ -1,10 +1,6 @@
 # 模擬宇宙・階差宇宙 テキスト
 
-スターレイルのテキストまとめ(自分用)<br>
-スプレッドシートからAIで転記<br>
-あとで整形
-
-[元のスプレッドシート](https://docs.google.com/spreadsheets/d/11fDtTNhc8KrQq9ojRTwlwRNSR2UY6khBxcv6jOI_Usc/)
+スターレイルのテキストまとめ(自分用)
 
 ## カテゴリ一覧
 
@@ -18,6 +14,7 @@
 - [階差宇宙：人間喜劇](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E4%BA%BA%E9%96%93%E5%96%9C%E5%8A%87/README.md)
 - [階差宇宙：千の面を持つ英雄](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E5%8D%83%E3%81%AE%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E8%8B%B1%E9%9B%84/README.md)
 - [階差宇宙：楽園漫記](%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99%EF%BC%9A%E6%A5%BD%E5%9C%92%E6%BC%AB%E8%A8%98/README.md)
+- [確率ミュージアム](%E7%A2%BA%E7%8E%87%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0/README.md)
 
 ## 本文を横断検索する
 
