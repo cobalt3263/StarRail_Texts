@@ -1,0 +1,14 @@
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+  const basePath = {{ '/' | relative_url | jsonify }};
+  for (const link of document.querySelectorAll("a[href]")) {
+    const url = new URL(link.getAttribute("href"), location.href);
+    if (url.origin !== location.origin || !url.pathname.startsWith(basePath)) continue;
+    if (!/\.md$/i.test(url.pathname)) continue;
+    url.pathname = /\/README\.md$/i.test(url.pathname)
+      ? url.pathname.replace(/README\.md$/i, "")
+      : url.pathname.replace(/\.md$/i, ".html");
+    link.href = url.href;
+  }
+});
+</script>
