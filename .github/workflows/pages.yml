@@ -31,6 +31,8 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - name: Allow search index writes
+        run: sudo chown -R "$(id -u):$(id -g)" _site
       - name: Build Japanese search index
         run: npx -y pagefind@1.5.2 --site _site
       - name: Verify search files
