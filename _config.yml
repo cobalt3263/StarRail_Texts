@@ -1,0 +1,27 @@
+title: "スターレイル テキスト集"
+description: "崩壊：スターレイルのテキスト資料"
+lang: ja
+
+url: "https://cobalt3263.github.io"
+baseurl: "/StarRail_Texts"
+
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-titles-from-headings
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+relative_links:
+  enabled: true
+
+kramdown:
+  input: GFM
+  parse_block_html: true
