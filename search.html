@@ -1,0 +1,26 @@
+---
+layout: default
+title: 本文を検索する
+---
+
+<h1>本文を検索する</h1>
+<p>探したい言葉を入力すると、公開中のページの本文を検索できます。</p>
+<p><a href="{{ '/' | relative_url }}">全体の目次へ</a></p>
+
+<link href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" rel="stylesheet">
+<script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}"></script>
+
+<div id="search"></div>
+<noscript>全文検索を利用するには、ブラウザのJavaScriptを有効にしてください。</noscript>
+
+<script>
+  window.addEventListener("DOMContentLoaded", () => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      showImages: false,
+      bundlePath: {{ '/pagefind/' | relative_url | jsonify }},
+      baseUrl: {{ '/' | relative_url | jsonify }}
+    });
+  });
+</script>

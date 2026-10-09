@@ -9,34 +9,10 @@
 
 ---
 
-## 本文を検索する
+## 閲覧方法
 
-GitHubのコード検索で、このリポジトリ内のMarkdown本文をまとめて検索できます。
+カテゴリ一覧から目次を開き、読みたい項目を選んでください。
 
-1. GitHubにログインし、[本文検索の例：「アッハ」](https://github.com/search?q=repo%3Acobalt3263%2FStarRail_Texts+content%3A%22%E3%82%A2%E3%83%83%E3%83%8F%22&type=code)を開きます。
-2. 検索欄の「アッハ」を探したい言葉に置き換え、Enterを押します。
-3. 検索結果のファイルを開き、前後の文章を確認します。
+開いているページ内の文章は、ブラウザのページ内検索（`Ctrl + F`、スマートフォンではブラウザの「ページ内を検索」）で探せます。
 
-検索欄に直接入力する場合は、次の形式を使います。
-
-```text
-repo:cobalt3263/StarRail_Texts content:"アッハ"
-```
-
-`repo:` は検索対象をこのリポジトリに絞り、`content:` はファイルの内容を検索します。
-
-複数の言葉のどちらかを含むページを探す場合は、正規表現を使えます。
-
-```text
-repo:cobalt3263/StarRail_Texts content:/アッハ|クリフォト/
-```
-
-特定のカテゴリに絞る場合は、`path:` を追加します。
-
-```text
-repo:cobalt3263/StarRail_Texts path:"模擬宇宙・階差宇宙/全般：イベント/" content:"アッハ"
-```
-
-「This repository's code is being indexed right now. Try again in a few minutes.」と表示された場合は、検索用データの作成中です。数分待ってから再検索してください。
-
-詳しい書き方は、[GitHub公式の検索構文](https://docs.github.com/ja/search-github/github-code-search/understanding-github-code-search-syntax)を参照してください。
+サイト全体の文章を探す場合は、[全文検索を開く](search.html)をご利用ください。
