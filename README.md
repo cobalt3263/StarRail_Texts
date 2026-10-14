@@ -19,3 +19,8 @@
 開いているページ内の文章は、ブラウザのページ内検索（`Ctrl + F`、スマートフォンではブラウザの「ページ内を検索」）で探せます。
 
 サイト全体の文章を探す場合は、[全文検索を開く](search.html)をご利用ください。
+
+
+https://cobalt3263.github.io/StarRail_Texts/
+
+https://github.com/cobalt3263/StarRail_Texts
