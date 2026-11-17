@@ -1,4 +1,4 @@
-# 商店街での第一戦
+# <ruby>商店街<rp>（</rp><rt>しょうてんがい</rt><rp>）</rp></ruby>での<ruby>第一戦<rp>（</rp><rt>だいいっせん</rt><rp>）</rp></ruby>
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

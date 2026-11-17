@@ -1,4 +1,4 @@
-# 美しい街づくり（エリア）
+# <ruby>美<rp>（</rp><rt>うつく</rt><rp>）</rp></ruby>しい<ruby>街<rp>（</rp><rt>まち</rt><rp>）</rp></ruby>づくり（エリア）
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

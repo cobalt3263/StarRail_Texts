@@ -1,4 +1,4 @@
-# 虫の潮・深眠の領主（三級守備）
+# <ruby>虫<rp>（</rp><rt>むし</rt><rp>）</rp></ruby>の<ruby>潮<rp>（</rp><rt>しお</rt><rp>）</rp></ruby>・<ruby>深眠<rp>（</rp><rt>しんみん</rt><rp>）</rp></ruby>の<ruby>領主<rp>（</rp><rt>りょうしゅ</rt><rp>）</rp></ruby>（<ruby>三級守備<rp>（</rp><rt>さんきゅうしゅび</rt><rp>）</rp></ruby>）
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

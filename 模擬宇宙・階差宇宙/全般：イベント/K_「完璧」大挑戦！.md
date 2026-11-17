@@ -1,4 +1,4 @@
-# 「完璧」大挑戦！
+# 「<ruby>完璧<rp>（</rp><rt>かんぺき</rt><rp>）</rp></ruby>」<ruby>大挑戦<rp>（</rp><rt>だいちょうせん</rt><rp>）</rp></ruby>！
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

@@ -1,4 +1,4 @@
-# 幻月の下（画棲）
+# <ruby>幻月<rp>（</rp><rt>げんげつ</rt><rp>）</rp></ruby>の<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>（<ruby>画棲<rp>（</rp><rt>がせい</rt><rp>）</rp></ruby>）
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

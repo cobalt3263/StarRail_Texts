@@ -1,4 +1,4 @@
-# ゴミ箱あさりの達人
+# ゴミ<ruby>箱<rp>（</rp><rt>ばこ</rt><rp>）</rp></ruby>あさりの<ruby>達人<rp>（</rp><rt>たつじん</rt><rp>）</rp></ruby>
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

@@ -1,4 +1,4 @@
-# 宇宙の踊り手の啓示
+# <ruby>宇宙<rp>（</rp><rt>うちゅう</rt><rp>）</rp></ruby>の<ruby>踊<rp>（</rp><rt>おど</rt><rp>）</rp></ruby>り<ruby>手<rp>（</rp><rt>て</rt><rp>）</rp></ruby>の<ruby>啓示<rp>（</rp><rt>けいじ</rt><rp>）</rp></ruby>
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 

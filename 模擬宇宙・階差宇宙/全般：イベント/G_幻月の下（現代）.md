@@ -1,4 +1,4 @@
-# 幻月の下（現代）
+# <ruby>幻月<rp>（</rp><rt>げんげつ</rt><rp>）</rp></ruby>の<ruby>下<rp>（</rp><rt>した</rt><rp>）</rp></ruby>（<ruby>現代<rp>（</rp><rt>げんだい</rt><rp>）</rp></ruby>）
 
 [イベント一覧へ](README.md) · [全体の目次へ](../../README.md)
 
